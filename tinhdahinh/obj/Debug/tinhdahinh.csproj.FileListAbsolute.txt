@@ -1,0 +1,8 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\bin\Debug\tinhdahinh.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\bin\Debug\tinhdahinh.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\bin\Debug\tinhdahinh.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\obj\Debug\tinhdahinh.csproj.AssemblyReference.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\obj\Debug\tinhdahinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\obj\Debug\tinhdahinh.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\obj\Debug\tinhdahinh.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\tinhdahinh\tinhdahinh\obj\Debug\tinhdahinh.pdb
