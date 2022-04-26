@@ -10,7 +10,7 @@ namespace Dahinh
     {
         public virtual void xuat()
         {
-            Console.WriteLine("Đây là hình đa giác!");
+            Console.WriteLine("day la hinh da giac");
         }
     }
 
@@ -18,28 +18,28 @@ namespace Dahinh
     {
         public override void xuat()
         {
-            Console.WriteLine("Hình tam giác có 3 cạnh");
+            Console.WriteLine("hinh tam giac co 3 canh");
         }
     }
     class TuGiac : HinhHoc
     {
         public override void xuat()
         {
-            Console.WriteLine("Hình tứ giác có 4 cạnh");
+            Console.WriteLine("Hinh tu giac co 4 canh");
         }
     }
     class hinhBinhHanh : HinhHoc
     {
         public override void xuat()
         {
-            Console.WriteLine("Hình bình hành là tứ giác có 2 cặp cạnh song song");
+            Console.WriteLine("Hbh co 2 cap canh song song");
         }
     }
     class hinhVuong : HinhHoc
     {
         public override void xuat()
         {
-            Console.WriteLine("Hình vuông là tứ giác có 4 cạnh bằng nhau và có 4 góc vuông");
+            Console.WriteLine("hinh vuong co 4 canh bang nhau va 4 goc vuong");
         }
     }
 
@@ -47,7 +47,7 @@ namespace Dahinh
     {
         public override void xuat()
         {
-            Console.WriteLine("Hình chữ nhật là tứ giác có 2 cạnh đối song song và có 4 góc vuông");
+            Console.WriteLine("hinh chu nhat co 2 cap canh doi bang nhau va 4 goc vuong");
         }
     }
 
