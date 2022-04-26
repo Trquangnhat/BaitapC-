@@ -1,0 +1,3 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\btdiemdanh\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\btdiemdanh\bai2\obj\Debug\bai2.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\btdiemdanh\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
