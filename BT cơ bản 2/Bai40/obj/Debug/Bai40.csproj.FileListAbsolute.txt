@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\bin\Debug\Bai40.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\bin\Debug\Bai40.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\bin\Debug\Bai40.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\obj\Debug\Bai40.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\obj\Debug\Bai40.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\obj\Debug\Bai40.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai40\obj\Debug\Bai40.pdb

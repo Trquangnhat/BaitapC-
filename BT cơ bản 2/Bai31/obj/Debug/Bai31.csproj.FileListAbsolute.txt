@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\bin\Debug\Bai31.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\bin\Debug\Bai31.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\bin\Debug\Bai31.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\obj\Debug\Bai31.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\obj\Debug\Bai31.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\obj\Debug\Bai31.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai31\obj\Debug\Bai31.pdb

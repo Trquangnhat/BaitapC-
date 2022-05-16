@@ -1,0 +1,8 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\bin\Debug\Bai19.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\bin\Debug\Bai19.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\bin\Debug\Bai19.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\obj\Debug\Bai19.csproj.AssemblyReference.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\obj\Debug\Bai19.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\obj\Debug\Bai19.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\obj\Debug\Bai19.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai19\obj\Debug\Bai19.pdb

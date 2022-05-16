@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6309c7b-ae96-4b9b-9873-f93a6816e0c7": {
+      "ProjectGuid": "e6309c7b-ae96-4b9b-9873-f93a6816e0c7",
+      "DisplayName": "Bai6",
+      "ColorIndex": 0
+    },
+    "d974d090-ff84-49c3-a594-780488929166": {
+      "ProjectGuid": "d974d090-ff84-49c3-a594-780488929166",
+      "DisplayName": "Bai1",
+      "ColorIndex": 1
+    },
+    "9c06f11e-5cb6-42a9-b9cf-d807ebc7c461": {
+      "ProjectGuid": "9c06f11e-5cb6-42a9-b9cf-d807ebc7c461",
+      "DisplayName": "Bai2",
+      "ColorIndex": 2
+    },
+    "1b5dcae7-cddf-4720-8a9e-4d52a00d4421": {
+      "ProjectGuid": "1b5dcae7-cddf-4720-8a9e-4d52a00d4421",
+      "DisplayName": "Bai7",
+      "ColorIndex": 3
+    },
+    "6633af9a-57b5-40b8-bbbd-e0a04e06966d": {
+      "ProjectGuid": "6633af9a-57b5-40b8-bbbd-e0a04e06966d",
+      "DisplayName": "Bai18",
+      "ColorIndex": 4
+    },
+    "86609d71-2d10-45da-9cd7-b664a6702a56": {
+      "ProjectGuid": "86609d71-2d10-45da-9cd7-b664a6702a56",
+      "DisplayName": "Bai19",
+      "ColorIndex": 5
+    },
+    "f6c35e9f-d32b-487b-8416-9e6c31eb4141": {
+      "ProjectGuid": "f6c35e9f-d32b-487b-8416-9e6c31eb4141",
+      "DisplayName": "Bai20",
+      "ColorIndex": 6
+    },
+    "9378c275-e020-4799-8fb7-bcb79041de70": {
+      "ProjectGuid": "9378c275-e020-4799-8fb7-bcb79041de70",
+      "DisplayName": "Bai23",
+      "ColorIndex": 7
+    },
+    "e131eca1-ccdd-4950-81d0-634ff37c03e8": {
+      "ProjectGuid": "e131eca1-ccdd-4950-81d0-634ff37c03e8",
+      "DisplayName": "Bai23",
+      "ColorIndex": 8
+    },
+    "46c389df-3232-4555-b888-fa9837fa259b": {
+      "ProjectGuid": "46c389df-3232-4555-b888-fa9837fa259b",
+      "DisplayName": "Bai22",
+      "ColorIndex": 9
+    },
+    "90538435-9408-4762-9632-8d8579d26028": {
+      "ProjectGuid": "90538435-9408-4762-9632-8d8579d26028",
+      "DisplayName": "Bai36",
+      "ColorIndex": 10
+    },
+    "945eca49-6268-48c6-ab23-2dbca9d30039": {
+      "ProjectGuid": "945eca49-6268-48c6-ab23-2dbca9d30039",
+      "DisplayName": "Bai31",
+      "ColorIndex": 11
+    },
+    "cbfa384e-9a8c-4dd0-8c0b-764eb684bc87": {
+      "ProjectGuid": "cbfa384e-9a8c-4dd0-8c0b-764eb684bc87",
+      "DisplayName": "Bai40",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

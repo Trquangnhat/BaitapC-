@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\bin\Debug\Baitap3.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\bin\Debug\Baitap3.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\bin\Debug\Baitap3.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\obj\Debug\Baitap3.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\obj\Debug\Baitap3.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\Baitap1\Baitap3\obj\Debug\Baitap3.pdb

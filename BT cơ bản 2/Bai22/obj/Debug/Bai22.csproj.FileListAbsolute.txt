@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\bin\Debug\Bai22.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\bin\Debug\Bai22.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\bin\Debug\Bai22.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\obj\Debug\Bai22.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\obj\Debug\Bai22.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\obj\Debug\Bai22.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT cơ bản 2\Bai22\obj\Debug\Bai22.pdb
