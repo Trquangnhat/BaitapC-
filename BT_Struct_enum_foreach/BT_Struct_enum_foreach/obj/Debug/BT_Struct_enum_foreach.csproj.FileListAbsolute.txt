@@ -1,0 +1,8 @@
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\bin\Debug\BT_Struct_enum_foreach.exe.config
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\bin\Debug\BT_Struct_enum_foreach.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\bin\Debug\BT_Struct_enum_foreach.pdb
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\obj\Debug\BT_Struct_enum_foreach.csproj.AssemblyReference.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\obj\Debug\BT_Struct_enum_foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\obj\Debug\BT_Struct_enum_foreach.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\obj\Debug\BT_Struct_enum_foreach.exe
+C:\Users\WIN-PRO\Documents\Lập trình C#\BT_Struct_enum_foreach\BT_Struct_enum_foreach\obj\Debug\BT_Struct_enum_foreach.pdb

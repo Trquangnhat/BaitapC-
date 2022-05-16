@@ -1,0 +1,7 @@
+D:\C#\BaiTapMang\BaiTapMang\bin\Debug\BaiTapMang.exe.config
+D:\C#\BaiTapMang\BaiTapMang\bin\Debug\BaiTapMang.exe
+D:\C#\BaiTapMang\BaiTapMang\bin\Debug\BaiTapMang.pdb
+D:\C#\BaiTapMang\BaiTapMang\obj\Debug\BaiTapMang.csproj.AssemblyReference.cache
+D:\C#\BaiTapMang\BaiTapMang\obj\Debug\BaiTapMang.csproj.CoreCompileInputs.cache
+D:\C#\BaiTapMang\BaiTapMang\obj\Debug\BaiTapMang.exe
+D:\C#\BaiTapMang\BaiTapMang\obj\Debug\BaiTapMang.pdb
